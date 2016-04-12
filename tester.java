@@ -11,7 +11,6 @@ public class tester {
 			String element;
 			
 			System.out.println("------------");
-			System.out.println("------------");
 			System.out.println("PreOrder");
 			System.out.println("------------");
 			
